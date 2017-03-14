@@ -1,4 +1,4 @@
-# HAB_status_reef_daisy
+# README
 
 Use these folder to organize and explore data for your OHI assessment. Edit this README file to describe the data you explore and how you process them. 
 
