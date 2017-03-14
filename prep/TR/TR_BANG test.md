@@ -1,13 +1,15 @@
-# Ao test
+# TR test
 
 Use these folder to organize and explore data for your OHI assessment. Edit this README file to describe the data you explore and how you process them. 
 
 For example, you could include: 
 
 - data source: test 1
-- data url or website: www.uuu.000
-- date accessed, contact information who did you get this data from
-- processing plan: more going to 
+- data url or website: www.uuu.ooo
+- date accessed, contact information
+- processing plan: were going to combine this data with need and access data
+
+this is a test
 
 It is best to script (for example, in the R programming language) as much as you can so that it is transparent and reproducible. 
 
